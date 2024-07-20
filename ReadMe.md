@@ -1,7 +1,6 @@
 # 💫 About Me:
 Estudante Back-end<br>Linguagem: Python, C#
 
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/DanielFerreirinha) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/d._.ferreirinha) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/DanielFerreirinha) 
 
@@ -10,7 +9,6 @@ Estudante Back-end<br>Linguagem: Python, C#
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Ferreirinhha&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ferreirinhha&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ferreirinhha&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
