@@ -7,7 +7,7 @@ Estudante Back-end<br>Linguagem: Python, C#
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ferreirinhha&theme=radical&hide_border=false&include_all_commits=false&count_private=false_fontSize=2)
+![](https://github-readme-stats.vercel.app/api?username=Ferreirinhha&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ferreirinhha&theme=radical&hide_border=false)<br/>
 
 ### ✍️ Random Dev Quote
